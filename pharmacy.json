@@ -1,0 +1,152 @@
+[
+    {
+        "Name":"Anbessa Pharmacy",
+        "Phone_number":"091347892",
+        "email":"tikur_anbessa@gmail.com",
+        "latitude":9.042256271050265,
+        "longitude": 38.76595406785443,
+        "city":"Adiss Abeba",
+        "kebele":"Arada",
+        "region":"Oromia",
+        "id":1,
+        "ownership": {
+            "name": "Public/Government"}
+            
+    },
+    {
+        "Name":"Paulos Pharmacy",
+        "Phone_number":"091447892",
+        "email":"st_paul@gmail.com",
+        "latitude":9.04773040615139, 
+        "longitude":38.7276159728357,
+        "city":"Adiss Abeba",
+        "kebele":"Gulele",
+        "region":"Oromia",
+        "id":2,
+        "ownership": {
+            "name": "Public/Government"}
+    },
+    {
+        "Name":"Yekatit Pharmacy",
+        "Phone_number":"091647892",
+        "email":"Yekatit@gmail.com",
+        "latitude":9.04375569827368, 
+        "longitude":38.76005732552519,
+        "city":"Adiss Abeba",
+        "kebele":"Yeka",
+        "region":"Oromia",
+        "id":3,
+        "ownership": {
+            "name": "Public/Government"}
+        
+    },
+    {
+        "Name":"Kenema Pharmacy",
+        "Phone_number":"090747892",
+        "email":"kenema@gmail.com",
+        "latitude":9.014638686860534, 
+        "longitude":38.75724666585683,
+        "city":"Adiss Abeba",
+        "kebele":"Bole",
+        "region":"Oromia",
+        "id":4,
+        "ownership": {
+            "name": "Public/Government"}
+    },
+    {
+        "Name":"SAS Pharmacy",
+        "Phone_number":"091747892",
+        "email":"sas@gmail.com",
+        "latitude":9.015330342156318, 
+        "longitude":38.769687481197046 ,
+        "city":"Adiss Abeba",
+        "kebele":"Bole",
+        "region":"Oromia",
+        "id":5,
+        "ownership": {
+            "name": "Private"}
+    },
+    {
+        "Name":"Gishen Pharmacy",
+        "Phone_number":"090847892",
+        "email":"gishen@gmail.com",
+        "latitude":9.015837727553055, 
+        "longitude":38.755732099799005 ,
+        "city":"Adiss Abeba",
+        "kebele":"Bole",
+        "region":"Oromia",
+        "id":6,
+        "ownership": {
+            "name": "Private"}
+
+    },
+    {
+        "Name":"Disse Tossa Pharmacy",
+        "Phone_number":"091747892",
+        "email":"dissetossa@gmail.com",
+        "latitude":11.125672326462851, 
+        "longitude":39.63456347806664 ,
+        "city":"Disse",
+        "kebele":"Disse",
+        "region":"Amhara",
+        "id":7,
+        "ownership": {
+            "name": "Private"}
+
+    },
+    {
+        "Name":"chamballala Pharmacy",
+        "Phone_number":"090147892",
+        "email":"chamballala@gmail.com",
+        "latitude": 7.032006884973973,
+        "longitude": 38.48066387299604,
+        "city":"Hawassa",
+        "kebele":"Piassa",
+        "region":"Sidama",
+        "id":8,
+        "ownership": {
+            "name": "Private"}
+
+    },
+    {
+        "Name":"Unity Pharmacy",
+        "Phone_number":"090047892",
+        "email":"unity@gmail.com",
+        "latitude": 9.617841538587, 
+        "longitude":41.84079284362477,
+        "city":"Dire Dawa",
+        "kebele":"sabian",
+        "region":"Oromia",
+        "id":9,
+        "ownership": {
+            "name": "Private"}
+    },
+    {
+        "Name":"Platinum Pharmacy",
+        "Phone_number":"091047892",
+        "email":"plat@gmail.com",
+        "latitude":8.994338811948541, 
+        "longitude":38.79561776439737 ,
+        "city":"Adiss Abeba",
+        "kebele":"Bole",
+        "region":"Oromia",
+        "id":9,
+        "ownership": {
+            "name": "Private"}
+    },
+    {
+        "Name":"Lion Pharmacy",
+        "Phone_number":"091047892",
+        "email":"lion@gmail.com",
+        "latitude":9.031298950919302, 
+        "longitude":38.75253076273892,
+        "city":"Adiss Abeba",
+        "kebele":"Bole",
+        "region":"Oromia",
+        "id":10,
+        "ownership": {
+            "name": "Private"}
+        
+    }
+
+]
